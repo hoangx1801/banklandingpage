@@ -1,6 +1,5 @@
 {
-  "homepage": "https://hoangx1801.github.io/banklandingpage",
-  "name": "banklandingpage",
+  "name": "src",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
