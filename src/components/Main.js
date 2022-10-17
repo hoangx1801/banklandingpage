@@ -1,7 +1,6 @@
 import styles from "../styles";
 import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
-import Stats from "./Stats";
 
 function Main() {
   return (
